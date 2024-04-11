@@ -44,10 +44,6 @@ Click the image above to watch the video.
 
 Contributions to enhance the project's features, improve code efficiency, or address any issues are welcome. Fork the repository, make your changes, and submit a pull request for review.
 
-## License:
-
-This project is licensed under the [MIT License](link-to-license), allowing for modification and distribution under certain conditions. See the LICENSE file for details.
-
 ## Acknowledgments:
 
 I would like to acknowledge the contributions of <a href="https://github.com/SHREYANSHSK">Shreyansh Khandelwal</a> in developing this project.
