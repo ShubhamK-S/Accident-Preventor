@@ -35,10 +35,9 @@ Accident Preventor is an Arduino-based project designed to enhance road safety b
 
 ## Hardware Layout:
 
-<video width="640" height="360" controls>
-    <source src="circuit video.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+[![Example Video](https://img.youtube.com/vi/xZigAyXmOsQ/0.jpg)](https://www.youtube.com/watch?v=xZigAyXmOsQ)
+
+Click the image above to watch the video.
 
 
 ## Contributing:
@@ -56,3 +55,6 @@ I would like to acknowledge the contributions of <a href="https://github.com/SHR
 ## Disclaimer:
 
 This project is intended for educational purposes and should not be solely relied upon for road safety. Always prioritize safe driving practices and adhere to local traffic laws and regulations.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
